@@ -1,2 +1,2 @@
-# 202255202001-Siti-Kharomah
+# Tugas3 DL
 Tugas 3 Deep Learning / klasifikasi image multilabel
